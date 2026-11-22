@@ -1,0 +1,39 @@
+{
+  "network": "mainnet",
+  "chainId": 1875,
+  "factory": "0x3c44D829BbA9781D73f42497fD73896152CA4910",
+  "lockVault": "0x6c4a77c221C5f93E72c8857bF7d8142deAD2f407",
+  "tokenDeployer": "0x8982353b0ebD4306adf5322279c312A080aA372a",
+  "marketDeployer": "0xFeC9005472cE27fD3D6F1CAaF10BA3Af845397B8",
+  "oneShot": "0xc178504f7e43b5a0eaeddb6dfc8080b60c8e80ff",
+  "owner": "0x8eEB81Bc8Baa23847d08C3Daa5E10011fe9a646D",
+  "treasury": "0x8eEB81Bc8Baa23847d08C3Daa5E10011fe9a646D",
+  "wwbt": "0xb044a2a1e3C3deb17e3602bF088811d9bDc762EA",
+  "usdc": "0xF97B9Bf62916f1EB42Dd906a7254603e7b9FC4a7",
+  "dexFactory": "0x4374A0D2B27e61260ACc9868D4a12dAa80cE0De2",
+  "dexRouter": "0xE39E00ab80A284E7B61808B15b1C676D00f2430f",
+  "nativeStart": "43200000000000000000",
+  "nativeGraduation": "100000000000000000000",
+  "usdcStart": "2500000000",
+  "usdcGraduation": "5800000000",
+  "launchFee": "50000000000000000",
+  "openLaunch": false,
+  "launchers": [
+    "0x25aD2fD206bca1368Ee06A7D73EaA5da1a964376",
+    "0xCca2032686A914f034298Bca68c96543206522c4"
+  ],
+  "renounced": true,
+  "startBlock": 53293063,
+  "deployTx": "0xa2a6e4b5560d44e532d5bfeb46a5c6056f042a42c229487e33ada682329905bc",
+  "deployedAt": "2026-11-22T02:45:36.000Z",
+  "previousFactories": [
+    {
+      "factory": "0x2094A1f1D3b53e030C5a3a6e435ec28701EFBad5",
+      "startBlock": 53287692
+    },
+    {
+      "factory": "0xDc6E66F39a60F0AA428e1E35AB1e0173bDa581B5",
+      "startBlock": 53286395
+    }
+  ]
+}
